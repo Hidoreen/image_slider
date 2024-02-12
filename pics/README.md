@@ -1,0 +1,1 @@
+This is a simple image slide. You can utilize the forward and back arrow to go through the images and there is a 3 seconds interval that loads the next image. Enjoy the doggos 🤗
